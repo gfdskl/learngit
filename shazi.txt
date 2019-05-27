@@ -1,0 +1,42 @@
+
+Vip-Wind@DESKTOP-1D9TDJI MINGW64 ~/Desktop/WebOfEscope-master (master)
+$ git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+
+Vip-Wind@DESKTOP-1D9TDJI MINGW64 ~/Desktop/WebOfEscope-master (master)
+$ git commit -m "innovative practice"
+[master (root-commit) e178baa] innovative practice
+ 1 file changed, 1 insertion(+)
+ create mode 160000 Desktop/git/various-material
+
+Vip-Wind@DESKTOP-1D9TDJI MINGW64 ~/Desktop/WebOfEscope-master (master)
+$ git push oeign master
+fatal: 'oeign' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Vip-Wind@DESKTOP-1D9TDJI MINGW64 ~/Desktop/WebOfEscope-master (master)
+$ git push orign master
+fatal: 'orign' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Vip-Wind@DESKTOP-1D9TDJI MINGW64 ~/Desktop/WebOfEscope-master (master)
+$ git push oeigin master
+fatal: 'oeigin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Vip-Wind@DESKTOP-1D9TDJI MINGW64 ~/Desktop/WebOfEscope-master (master)
+$ ^C
+
+Vip-Wind@DESKTOP-1D9TDJI MINGW64 ~/Desktop/WebOfEscope-master (master)
+$
+
